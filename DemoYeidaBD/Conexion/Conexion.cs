@@ -8,9 +8,9 @@ namespace DemoYeidaBD.Conexion
 {
     public class Conexion
     {
-        public static string server = "";
-        public static string database = "";
-        public static string username = "";
-        public static string pass = "";
+        public static string server = "yeidabd.database.windows.net";
+        public static string database = "YeidaBD";
+        public static string username = "yeidabd20";
+        public static string pass = "yeidabd@2020";
     }
 }

@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
@@ -52,6 +53,12 @@
     <Compile Include="Conexion\Conexion.cs" />
     <Compile Include="Logica\LogicaNegocio.cs" />
     <Compile Include="Modelo\Persona.cs" />
+    <Compile Include="FormPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPersona.Designer.cs">
+      <DependentUpon>FormPersona.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,7 +66,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="FormPersona.resx">
+      <DependentUpon>FormPersona.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

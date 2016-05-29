@@ -5,3 +5,5 @@ c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD
 c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.csprojResolveAssemblyReference.cache
 c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.exe
 c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.pdb
+C:\Users\Developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.csproj.GenerateResource.Cache
+C:\Users\Developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.FormPersona.resources

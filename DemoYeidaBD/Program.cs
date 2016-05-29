@@ -14,6 +14,12 @@ namespace DemoYeidaBD
 
         static void Main(string[] args)
         {
+
+            FormPersona fr = new FormPersona();
+            fr.ShowDialog();
+
+            /*
+            
             Persona p = new Persona();
             p.Id = 2;
             p.Nombre = "Mi primera actualizacion";
@@ -27,7 +33,13 @@ namespace DemoYeidaBD
                 logica.getPesonas();
             }
             Console.ReadLine();
+            */
+           
 
+
+            //como se puede ver esta bastante facil trabajar con esta librería.
+            //nos vemos en un proxímo vídeo donde aprenderemos a usar los métodos para ejecutar procedimientos almacenados
+            //SALUDOS DEV ;)
 
 
         }
