@@ -1,0 +1,7 @@
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\bin\Debug\DemoYeidaBD.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\bin\Debug\DemoYeidaBD.exe
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\bin\Debug\DemoYeidaBD.pdb
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\bin\Debug\YeiBD.dll
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.exe
+c:\users\developer\documents\visual studio 2015\Projects\DemoYeidaBD\DemoYeidaBD\obj\Debug\DemoYeidaBD.pdb
